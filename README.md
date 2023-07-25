@@ -64,3 +64,9 @@ This will start the server, and you can navigate to the URL provided in the cons
 ## Troubleshooting
 
 If you encounter any problems during setup or running of the project, please check that you've correctly followed all the steps above. If you're still experiencing problems, feel free to reach out or open an issue.
+
+
+
+https://github.com/debjyotirshi2303/Credit-Risk-Assessment/assets/75799417/cb31e2c9-b864-43d1-8912-c57a8fa4f5d1
+
+
