@@ -94,7 +94,21 @@ def user_input_features():
         'loan_grade_F': 1 if loan_grade == 'F' else 0,
         'loan_grade_G': 1 if loan_grade == 'G' else 0,
     }
-    
+
+    # The given code is written in Python and it creates a pandas DataFrame object called "features" using the pd.DataFrame() function. 
+    # The DataFrame is initialized with the data provided as an argument to the function, and the index parameter is set to [0].
+
+    # Here's a breakdown of the code:
+
+    # 1. `features = pd.DataFrame(data, index=[0])`: This line creates a new DataFrame object named "features". 
+    # The data for the DataFrame is passed as the first argument to the pd.DataFrame() function. 
+    # The second argument, `index=[0]`, specifies that the DataFrame should have a single row with an index value of 0.
+
+    # 2. `return features`: This line returns the created DataFrame object as the output of the function.
+
+    # In summary, this code takes some data and creates a pandas DataFrame object with a single row and an index value of 0. 
+    # The resulting DataFrame is then returned as the output of the function.
+
     features = pd.DataFrame(data, index=[0])
     return features
 
